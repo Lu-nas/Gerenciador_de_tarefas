@@ -1,5 +1,5 @@
 # Gerenciador_de_tarefas
-Aplicação simples de gerenciamento de tarefas usando Python. Desenvolvido passo a passo com foco em lógica e boas práticas de programação. 
+Aplicação de Gerenciamento de Tarefas no Terminal | Python + JSON | Projeto com foco em lógica.
 
 ## 📌 Sobre o projeto
 
