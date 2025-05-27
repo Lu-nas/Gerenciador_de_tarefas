@@ -41,7 +41,7 @@ Cada tarefa é armazenada como um dicionário com os seguintes campos:
 
 . **Clone o repositório:**
 git clone https://github.com/Lu-nas/Gerenciador_de_tarefas.git   
- cd nome-do-projeto
+. cd nome-do-projeto
 
 Nota: Certifique-se de ter o Python instalado (versão 3.8 ou superior recomendada).
 
